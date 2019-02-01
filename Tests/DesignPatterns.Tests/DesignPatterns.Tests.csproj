@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Behavioral\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj" />
     <ProjectReference Include="..\..\Behavioral\ObserverPattern\ObserverPattern.csproj" />
     <ProjectReference Include="..\..\Structural\ProxyPattern\ProxyPattern.csproj" />
   </ItemGroup>
